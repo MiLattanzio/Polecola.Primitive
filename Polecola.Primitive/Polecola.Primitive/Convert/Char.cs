@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 
 namespace Polecola.Primitive;
 
@@ -19,7 +20,7 @@ public static partial class Convert
             < sizeof(char) * 8 => Enumerable.Repeat(false, (sizeof(char)*8) - s.Length).Concat(s).ToArray(),
             _ => s
         };
-        char b = (char)0;
+        var b = (char)0;
         foreach (var t in s.Reverse())
         {
             b <<= 1;
@@ -27,4 +28,6 @@ public static partial class Convert
         }
         return b;
     }
+    
+    public static char ToChar(this byte[] b) => BitConverter.ToChar(b, 0);
 }

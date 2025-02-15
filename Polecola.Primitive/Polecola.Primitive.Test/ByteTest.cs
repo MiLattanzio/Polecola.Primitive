@@ -20,6 +20,9 @@ public class ByteTest
            var bools = value.ToBoolArray();
            var result = bools.ToByte();
            Assert.That(result, Is.EqualTo(value));
+           var bytes = bools.ToByteArray();
+           Assert.That(bytes, Has.Length.EqualTo(1));
+           Assert.That(bytes[0], Is.EqualTo(value));
         }
     }
     
@@ -61,7 +64,6 @@ public class ByteTest
             value = value.SetBoolAtIndex((uint)index, boolAtIndex);
         }
         Assert.That(valueInverted, Is.EqualTo(value));
-
     }
     
 }
