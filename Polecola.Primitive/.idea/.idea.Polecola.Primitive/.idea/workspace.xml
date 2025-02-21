@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="516c765c-430d-4a73-bf41-071f4a1d015b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Doxyfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/ByteTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/CharTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/DecimalTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/DoubleTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/FloatTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/IntTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/LongTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/Polecola.Primitive.Test.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/ShortTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/UIntTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/ULongTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.Test/uShortTest.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Bool.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Char.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/BoolArray.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/Byte.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/ByteArray.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/Char.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/Decimal.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/Double.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/Float.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/Int.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/IntArray.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/Long.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/Short.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/UInt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/ULong.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Convert/UShort.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Double.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Float.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Polecola.Primitive.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Polecola.Primitive/Polecola.Primitive.csproj.DotSettings" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MiLattanzio&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MiLattanzio/Polecola.Primitive.git&quot;,
+    &quot;accountId&quot;: &quot;a85b9d08-54ae-4afb-9f33-2da8aaf4f894&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/161bf3806fa849c8ba4595e4d64342f17188/2b/3d943f9e/Enumerable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45ada8c418664ff394ffd30455aab498c90910/08/81bd09c9/List`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/45ada8c418664ff394ffd30455aab498c90910/63/5172d9a8/Decimal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/784f15b552394a57a574e2ad350ec91f5980/fa/fa9ccd38/BigInteger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/46a322d26154b982566e1817203e5452c91223f93b0e392d9c5b4806696fdc1/Assert.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Char.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2t3PqKUrb9hDoFK6Ypf5iaNHcqp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "8bb4e463-3753-4172-8b0c-bd03a2339e31.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "b674a1c5-08c4-4dfb-afa8-20015da6f473.executor": "Debug",
+    "com.google.cloudcode.ide_session_index": "20250221_0003",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="8bb4e463-3753-4172-8b0c-bd03a2339e31" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="516c765c-430d-4a73-bf41-071f4a1d015b" name="Changes" comment="" />
+      <created>1739577975271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739577975271</updated>
+      <workItem from="1739577976371" duration="5140000" />
+      <workItem from="1739583337739" duration="303000" />
+      <workItem from="1739657157334" duration="6171000" />
+      <workItem from="1739744867234" duration="471000" />
+      <workItem from="1739745360437" duration="2122000" />
+      <workItem from="1739749458386" duration="1272000" />
+      <workItem from="1739887445351" duration="400000" />
+      <workItem from="1739908623834" duration="2064000" />
+      <workItem from="1740067584946" duration="480000" />
+      <workItem from="1740086824696" duration="270000" />
+      <workItem from="1740160886692" duration="2540000" />
+      <workItem from="1740173978287" duration="2692000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add conversion utilities for primitive types&#10;&#10;Introduced a suite of conversion methods in `Polecola.Primitive` to handle transformations between various data types and binary representations, such as converting arrays of booleans to integers, floats, and other primitives, and vice versa. These utilities enhance the flexibility and usability of binary and numeral data processing.">
+      <option name="closed" value="true" />
+      <created>1739579359470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739579359470</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add new project with byte extension tests and solution setup&#10;&#10;Introduced the `Polecola.Primitive` project and its test counterpart, including a solution file. Added tests for byte-to-boolean array conversions and related operations, ensuring correctness and consistency. Configured test dependencies and frameworks for proper project functionality.">
+      <option name="closed" value="true" />
+      <created>1739581371762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739581371762</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add character conversion tests and enhance char utilities&#10;&#10;Introduced `CharTest` to validate character-to-bool array conversions, bit manipulations, and reconstruction integrity. Extended `Char` utilities with a `ToChar` method for byte arrays. Minor improvements to `ByteTest` to ensure completeness in byte-to-bool array validations.">
+      <option name="closed" value="true" />
+      <created>1739582416301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739582416301</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add range and count methods for numeric and char types  &#10;&#10;Introduced `Range` and `Count` methods for `double`, `float`, and `char` to enable sequence generation and counting. Enhanced byte conversion utilities by adding `ToLong`, `ToDouble`, and `ToFloat` methods for handling byte arrays. These updates improve usability and extend functionality for fundamental types.">
+      <option name="closed" value="true" />
+      <created>1740163329580</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740163329580</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add unit tests for primitive type extension methods&#10;&#10;Introduced comprehensive unit tests for validating extension methods across various primitive types like int, uint, float, double, and more. These tests cover conversions to/from boolean arrays, bitwise operations, and range/utility validations to ensure reliability and accuracy.">
+      <option name="closed" value="true" />
+      <created>1740163375222</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740163375222</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Doxyfile for configuring Doxygen documentation&#10;&#10;Introduced a default Doxyfile to configure Doxygen for generating project documentation. This file sets project-specific parameters such as the project name, output directory, and language settings, along with other configuration options for controlling output behavior and formatting.">
+      <option name="closed" value="true" />
+      <created>1740175767899</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740175767899</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="75" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="290" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 61% 244/628" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 61% 244/628" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 61% 244/628" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="(1.0.0.0, net8.0) 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 61% 244/628" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="(1.0.0.0, net8.0) 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 61% 244/628" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="(1.0.0.0, net8.0) 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="ByteTest 100% 0/46" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 61% 244/628" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="(1.0.0.0, net8.0) 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="CharTest 100% 0/57" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 61% 244/628" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="(1.0.0.0, net8.0) 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="DecimalTest 100% 0/26" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 61% 244/628" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="(1.0.0.0, net8.0) 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Polecola.Primitive.Test 94% 12/215" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="DoubleTest 86% 6/43" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Add conversion utilities for primitive types&#10;&#10;Introduced a suite of conversion methods in `Polecola.Primitive` to handle transformations between various data types and binary representations, such as converting arrays of booleans to integers, floats, and other primitives, and vice versa. These utilities enhance the flexibility and usability of binary and numeral data processing." />
+    <MESSAGE value="Add new project with byte extension tests and solution setup&#10;&#10;Introduced the `Polecola.Primitive` project and its test counterpart, including a solution file. Added tests for byte-to-boolean array conversions and related operations, ensuring correctness and consistency. Configured test dependencies and frameworks for proper project functionality." />
+    <MESSAGE value="Add character conversion tests and enhance char utilities&#10;&#10;Introduced `CharTest` to validate character-to-bool array conversions, bit manipulations, and reconstruction integrity. Extended `Char` utilities with a `ToChar` method for byte arrays. Minor improvements to `ByteTest` to ensure completeness in byte-to-bool array validations." />
+    <MESSAGE value="Add range and count methods for numeric and char types  &#10;&#10;Introduced `Range` and `Count` methods for `double`, `float`, and `char` to enable sequence generation and counting. Enhanced byte conversion utilities by adding `ToLong`, `ToDouble`, and `ToFloat` methods for handling byte arrays. These updates improve usability and extend functionality for fundamental types." />
+    <MESSAGE value="Add unit tests for primitive type extension methods&#10;&#10;Introduced comprehensive unit tests for validating extension methods across various primitive types like int, uint, float, double, and more. These tests cover conversions to/from boolean arrays, bitwise operations, and range/utility validations to ensure reliability and accuracy." />
+    <MESSAGE value="Add Doxyfile for configuring Doxygen documentation&#10;&#10;Introduced a default Doxyfile to configure Doxygen for generating project documentation. This file sets project-specific parameters such as the project name, output directory, and language settings, along with other configuration options for controlling output behavior and formatting." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Doxyfile for configuring Doxygen documentation&#10;&#10;Introduced a default Doxyfile to configure Doxygen for generating project documentation. This file sets project-specific parameters such as the project name, output directory, and language settings, along with other configuration options for controlling output behavior and formatting." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Polecola.Primitive.Test/CharTest.cs</url>
+          <line>34</line>
+          <properties documentPath="C:\Users\miche\OneDrive\Documenti\Projects\Polecola.Primitive\Polecola.Primitive\Polecola.Primitive.Test\CharTest.cs" containingFunctionPresentation="Method 'ToBoolArrayTest'">
+            <startOffsets>
+              <option value="1485" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1516" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Polecola.Primitive.Test/CharTest.cs</url>
+          <line>72</line>
+          <properties documentPath="C:\Users\miche\OneDrive\Documenti\Projects\Polecola.Primitive\Polecola.Primitive\Polecola.Primitive.Test\CharTest.cs" containingFunctionPresentation="Method 'SetBoolAtIndexTest'">
+            <startOffsets>
+              <option value="3037" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3073" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Polecola.Primitive.Test/CharTest.cs</url>
+          <line>99</line>
+          <properties documentPath="C:\Users\miche\OneDrive\Documenti\Projects\Polecola.Primitive\Polecola.Primitive\Polecola.Primitive.Test\CharTest.cs" containingFunctionPresentation="Method 'CountTest'">
+            <startOffsets>
+              <option value="4254" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4299" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Polecola.Primitive/Char.cs</url>
+          <line>24</line>
+          <properties documentPath="C:\Users\miche\OneDrive\Documenti\Projects\Polecola.Primitive\Polecola.Primitive\Polecola.Primitive\Char.cs" containingFunctionPresentation="Method 'Range'">
+            <startOffsets>
+              <option value="1119" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1132" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Polecola.Primitive.Test/CharTest.cs</url>
+          <line>117</line>
+          <properties documentPath="C:\Users\miche\OneDrive\Documenti\Projects\Polecola.Primitive\Polecola.Primitive\Polecola.Primitive.Test\CharTest.cs" containingFunctionPresentation="Method 'RangeTest'">
+            <startOffsets>
+              <option value="5153" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5199" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Polecola.Primitive.Test/DecimalTest.cs</url>
+          <line>18</line>
+          <properties documentPath="C:\Users\miche\OneDrive\Documenti\Projects\Polecola.Primitive\Polecola.Primitive\Polecola.Primitive.Test\DecimalTest.cs" containingFunctionPresentation="Method 'ToBoolArrayTest'">
+            <startOffsets>
+              <option value="717" />
+            </startOffsets>
+            <endOffsets>
+              <option value="765" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
