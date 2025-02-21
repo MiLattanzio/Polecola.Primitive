@@ -1,29 +1,39 @@
-namespace Polecola.Primitive.Test;
+﻿namespace Polecola.Primitive.Test;
 
-public class ByteTest
+/// <summary>
+/// Contains a suite of tests to verify the functionality and accuracy of integer-related
+/// extension methods, including conversion to boolean arrays, retrieval, and modification
+/// of specific bit values.
+/// </summary>
+/// <remarks>
+/// This class is designed to validate operations that involve converting integers to
+/// boolean arrays, retrieving specific boolean values, and setting boolean values at
+/// specified indices within an integer. The tests ensure data consistency and correct
+/// behavior of the extension methods under various conditions.
+/// </remarks>
+[TestFixture]
+public class IntTest
 {
     /// <summary>
-    /// Tests the conversion of a byte to a boolean array and back to a byte, ensuring data consistency.
+    /// Tests the conversion of an integer to a boolean array and back to an integer, verifying consistency.
     /// </summary>
     /// <remarks>
-    /// This method iterates through all possible values of a byte, converts each value into a boolean array
-    /// using the extension method `ToBoolArray`, and then converts the boolean array back to a byte using the
-    /// `ToByte` extension method. The test ensures that the resultant byte matches the original input value.
+    /// This method converts a randomly generated integer value into a boolean array using the `ToBoolArray` extension method.
+    /// It then reconstructs the integer from the boolean array and asserts that the reconstructed integer matches the original value.
+    /// Additionally, it converts the boolean array to a byte array, verifies the byte array length, and ensures that converting
+    /// the byte array back to the original integer maintains consistency.
     /// </remarks>
     [Test]
     public void ToBoolArray()
     {
-        foreach (var b in Enumerable.Range(byte.MinValue, byte.MaxValue))
-        {
-           var value = (byte)b;
-           Assert.That(b, Is.EqualTo(value));
-           var bools = value.ToBoolArray();
-           var result = bools.ToByte();
-           Assert.That(result, Is.EqualTo(value));
-           var bytes = bools.ToByteArray();
-           Assert.That(bytes, Has.Length.EqualTo(1));
-           Assert.That(bytes[0], Is.EqualTo(value));
-        }
+        var value = Random.Shared.Next();
+        var bools = value.ToBoolArray();
+        var result = bools.ToInt();
+        Assert.That(result, Is.EqualTo(value));
+        var bytes = bools.ToByteArray();
+        Assert.That(bytes, Has.Length.EqualTo(4));
+        var valueBack = bytes.ToInt();
+        Assert.That(valueBack, Is.EqualTo(value));
     }
 
 
@@ -39,9 +49,7 @@ public class ByteTest
     [Test]
     public void GetBoolAtIndex()
     {
-        var bytes = new byte[] { 0x0 };
-        Random.Shared.NextBytes(bytes);
-        var value = bytes[0];
+        var value = Random.Shared.Next();
         var bools = value.ToBoolArray();
         for (var index = 0; index < bools.Length; index++)
         {
@@ -62,10 +70,8 @@ public class ByteTest
     [Test]
     public void SetBoolAtIndex()
     {
-        var bytes = new byte[] { 0x0 };
-        Random.Shared.NextBytes(bytes);
-        var value = bytes[0];
-        var valueInverted = (byte)~value;
+        var value = Random.Shared.Next();
+        var valueInverted = ~value;
         var bools = value.ToBoolArray();
         var boolsInverted = bools.Select(x => !x).ToArray();
         for (var index = 0; index < boolsInverted.Length; index++)
@@ -75,5 +81,4 @@ public class ByteTest
         }
         Assert.That(valueInverted, Is.EqualTo(value));
     }
-    
 }
