@@ -1,4 +1,5 @@
-﻿using System.Diagnostics.CodeAnalysis;
+﻿using System;
+using System.Diagnostics.CodeAnalysis;
 using System.Linq;
 
 namespace Polecola.Primitive;
@@ -26,4 +27,11 @@ public static partial class Convert
         }
         return b;
     }
+
+    /// <summary>
+    /// Converts a byte array to a long integer.
+    /// </summary>
+    /// <param name="b">The byte array to convert.</param>
+    /// <returns>The converted long integer.</returns>
+    public static long ToLong(this byte[] b) => BitConverter.ToInt64(b, 0);
 }

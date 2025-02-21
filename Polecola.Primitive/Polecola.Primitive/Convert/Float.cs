@@ -17,4 +17,6 @@ public static partial class Convert
         var bytes = ToByteArray(s);
         return BitConverter.ToSingle(bytes);
     }
+    
+    public static float ToFloat(this byte[] s) => BitConverter.ToSingle(s, 0);
 }
